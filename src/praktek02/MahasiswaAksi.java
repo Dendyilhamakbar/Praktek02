@@ -11,6 +11,10 @@ package praktek02;
  */
 public class MahasiswaAksi {
     public static void main (String []args)   {
-        Mahasiswa Harry =  new Mahasiswa();
+        Mahasiswa1 Harry =  new Mahasiswa1();
+        
+        Harry.nama="Harry potter";
+        Harry.NPM="19639999";
+        Harry.IPK=3,4;
 }
-}
+  }
