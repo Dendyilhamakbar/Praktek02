@@ -10,6 +10,7 @@ package praktek02;
  * @author WEB DESIGN 15
  */
 public class MahasiswaAksi {
-    public static void main (String []args)   {         
+    public static void main (String []args)   {
+        Mahasiswa Harry =  new Mahasiswa();
 }
 }
