@@ -9,6 +9,6 @@ package praktek02;
  *
  * @author WEB DESIGN 15
  */
-public class Mahasiswa {
+public class Mahasiswa1 {
     
 }
